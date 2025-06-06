@@ -1,2 +1,3 @@
-# treinamento_github_DIO_autenticacoes
-Repositório de testes de autenticações
+# Treinamento_github_DIO_Autenticacoes
+- Repositório de testes de autenticações
+- Primeiro Add
